@@ -13,7 +13,7 @@ body{
   display: flex;
   justify-content: center;
   gap: 30px;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 
@@ -159,6 +159,7 @@ h1{
   }
 
 }
+
 
 
 
