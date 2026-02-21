@@ -145,7 +145,7 @@ h1{
   #countdown {
     flex-wrap: wrap;
     gap: 15px;
-	margin-bottom:70px;
+	margin-bottom:40px;
   }
 
   .box span {
@@ -159,6 +159,7 @@ h1{
   }
 
 }
+
 
 
 
