@@ -125,10 +125,11 @@ h1{
     width: 100%;
     height: auto;
     margin-bottom: 20px;
+	align-items:center;
   }
 
   .card {
-    width: 95%;              
+    width: 100%;              
   	max-width: 500px;
   	height: auto;
     margin: 15px auto;
@@ -158,6 +159,7 @@ h1{
   }
 
 }
+
 
 
 
