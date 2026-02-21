@@ -42,7 +42,6 @@ body{
 .container{
 	padding:30px;
 	margin-top:10px;
-	margin-bottom:-160px;
 	text-align:center;
 	justify-content:center;
 	width:60%;
@@ -158,6 +157,7 @@ h1{
   }
 
 }
+
 
 
 
