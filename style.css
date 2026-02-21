@@ -135,9 +135,11 @@ h1{
     margin: 15px auto;
   }
 
-  .card img {
-    width: 25%;
-    height: auto;
+  .food-img {
+    max-height: 200px; /* or 150px if you want smaller */
+    object-fit: cover;  /* crops nicely if needed */
+    width: 100%;
+    border-radius: 15px;
   }
 
   #countdown {
@@ -156,5 +158,6 @@ h1{
   }
 
 }
+
 
 
