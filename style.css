@@ -130,7 +130,7 @@ h1{
 
   .card {
     width: 70%;              
-  	max-width: 500px;
+  	max-width: 400px;
   	height: auto;
     margin: 15px auto;
   }
@@ -159,6 +159,7 @@ h1{
   }
 
 }
+
 
 
 
