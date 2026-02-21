@@ -109,9 +109,10 @@ h1{
 
 @media (max-width: 768px) {
 
-  body {
+ body {
     height: auto;
-    padding: 20px 10px;
+    justify-content: flex-start;
+    padding-top: 20px;
   }
 
   h1 {
@@ -158,6 +159,7 @@ h1{
   }
 
 }
+
 
 
 
