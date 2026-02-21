@@ -129,7 +129,7 @@ h1{
   }
 
   .card {
-    width: 100%;              
+    width: 90%;              
   	max-width: 500px;
   	height: auto;
     margin: 15px auto;
@@ -145,7 +145,7 @@ h1{
   #countdown {
     flex-wrap: wrap;
     gap: 15px;
-	  margin-bottom:20px;
+	margin-bottom:40px;
   }
 
   .box span {
@@ -159,6 +159,7 @@ h1{
   }
 
 }
+
 
 
 
