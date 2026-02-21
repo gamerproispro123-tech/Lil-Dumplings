@@ -46,7 +46,6 @@ body{
 	text-align:center;
 	justify-content:center;
 	width:60%;
-	height:60%;
 	display:flex;
 }
 
@@ -66,7 +65,7 @@ h1{
 	text-align:center;
 	align-content:center;
 	width:25%;
-	height:70%;
+	max-width:30%;
 	color:white;
 	transition: all.5s;
 }
@@ -104,3 +103,56 @@ h1{
   color: white;
 }
 
+.food-img {
+  border-radius: 15px;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+
+  body {
+    height: auto;
+    padding: 20px 10px;
+  }
+
+  h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .container {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .card {
+    width: 90%;
+    max-width: 100%;
+    height: auto;
+    margin: 15px auto;
+  }
+
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+
+  #countdown {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .box span {
+    font-size: 40px;
+    transform: scaleY(1.5);
+  }
+
+  .contact {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+}
