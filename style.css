@@ -129,14 +129,14 @@ h1{
   }
 
   .card {
-    width: 30%;
+    width: 50%;
     max-width: 100%;
     height: auto;
     margin: 15px auto;
   }
 
   .food-img {
-    max-height: 200px; /* or 150px if you want smaller */
+    max-height: 300px; /* or 150px if you want smaller */
     object-fit: cover;  /* crops nicely if needed */
     width: 100%;
     border-radius: 15px;
@@ -158,6 +158,7 @@ h1{
   }
 
 }
+
 
 
 
